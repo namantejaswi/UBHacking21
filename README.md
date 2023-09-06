@@ -1,5 +1,9 @@
 ## UB Hacking 2021
 
+##You can see this video for a brief overview
+https://devpost.com/software/frontline-aid
+
+
 ## Inspiration
 We worked on Wegmans challenge and the main inspiration behind the project was the challenges and problems faced by frontline workers especially in such a pandemic hit era. This has been a testing time for each one of us but the frontline workers were the worst hit - be it mentally, emotionally or physically. This project has been an effort to conceptualize the idea to provide digital form of support to the frontline workers.
 
